@@ -1,0 +1,20 @@
+#articles {
+  display: inline-block;
+  right: 5%;
+  position: absolute;
+  top: 5%;
+  width: 60%;
+}
+
+#articles > div {
+  border-radius: 8px;
+  margin: 1em .5em;
+  padding: .75em;
+  padding-top: 0;
+  vertical-align: top;
+
+}
+
+form > input {
+  display: block;
+}
